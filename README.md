@@ -1,6 +1,6 @@
 # Hi,I'm Arun Kumar! 👋 
 
-- 🔭 I’m currently working as Senior Engineer at [Aspire Systems](https://www.aspiresys.com/)
+- 🔭 I’m currently working as Consultant at [Capgemini](https://www.capgemini.com/)
 - 🌱 I’m currently learning Angular,.Net Core
 - 💬 Ask me about C#,.Net,Angular
 - 📫 How to reach me: [@ArunKumar](https://twitter.com/dev_arunkumar)
