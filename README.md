@@ -1,7 +1,7 @@
 # Hi,I'm Arun Kumar! 👋 
 
-- 🔭 I’m currently working as Consultant at [Capgemini](https://www.capgemini.com/)
-- 🌱 I’m currently learning Angular,.Net Core
+- 🔭 I’m currently working as Senior Consultant at [Capgemini](https://www.capgemini.com/)
+- 🌱 Working on Angular,.Net Core
 - 💬 Ask me about C#,.Net,Angular
 - 📫 How to reach me: [@ArunKumar](https://twitter.com/dev_arunkumar)
 
